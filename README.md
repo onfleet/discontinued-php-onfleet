@@ -1,5 +1,20 @@
 # Onfleet PHP Wrapper
 
+> ⚠️ **This project is no longer maintained**
+>
+> This project is no longer actively maintained and should not be used for new integrations.
+>
+> We recommend integrating directly with the **Onfleet API** by following the official API documentation:
+>
+> **API Documentation:** [Onfleet API docs](https://docs.onfleet.com/reference/introduction)
+>
+> Alternatively, you can use one of our actively maintained API wrappers:
+>
+> - **Node.js:** [node-onfleet](https://github.com/onfleet/node-onfleet)
+> - **Python:** [pyonfleet](https://github.com/onfleet/pyonfleet)
+>
+> If you have any questions or need further information, please reach out to us at **[support@onfleet.com](mailto:support@onfleet.com)**.
+
 [![License](https://img.shields.io/github/license/onfleet/php-onfleet)](https://github.com/onfleet/php-onfleet/blob/master/LICENSE)
 [![Latest version](https://img.shields.io/packagist/v/onfleet/php-onfleet)](https://packagist.org/packages/onfleet/php-onfleet)
 ![Top language](https://img.shields.io/github/languages/top/onfleet/php-onfleet)
