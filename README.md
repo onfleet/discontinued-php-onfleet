@@ -6,7 +6,7 @@
 >
 > We recommend integrating directly with the **Onfleet API** by following the official API documentation:
 >
-> **API Documentation:** [Onflee API docs](https://docs.onfleet.com/reference/introduction)
+> **API Documentation:** [Onfleet API docs](https://docs.onfleet.com/reference/introduction)
 >
 > Alternatively, you can use one of our actively maintained API wrappers:
 >
