@@ -13,7 +13,7 @@
 > - **Node.js:** [node-onfleet](https://github.com/onfleet/node-onfleet)
 > - **Python:** [pyonfleet](https://github.com/onfleet/pyonfleet)
 >
-> If you have any questions or need further information, please reach out to us at **[support@onfleet.com](support@onfleet.com)**.
+> If you have any questions or need further information, please reach out to us at **[support@onfleet.com](mailto:support@onfleet.com)**.
 
 [![License](https://img.shields.io/github/license/onfleet/php-onfleet)](https://github.com/onfleet/php-onfleet/blob/master/LICENSE)
 [![Latest version](https://img.shields.io/packagist/v/onfleet/php-onfleet)](https://packagist.org/packages/onfleet/php-onfleet)
